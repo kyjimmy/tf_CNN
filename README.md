@@ -1,2 +1,4 @@
-# tf_CNN
-Training CNN with keras
+## Tf_CNN
+
+Training a CNN model 
+- Completed work under Coursera
