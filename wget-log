@@ -1,12 +1,0 @@
---2020-08-30 23:04:23--  https://download.microsoft.com/download/3/E/1/3E1C3F21-ECDB-4869-8368-6DEBA77B919F/kagglecatsanddogs_3367a.zip
-Resolving download.microsoft.com (download.microsoft.com)... 2600:140a:6000:29a::e59, 2600:140a:6000:28c::e59, 23.64.56.228
-Connecting to download.microsoft.com (download.microsoft.com)|2600:140a:6000:29a::e59|:443... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 824894548 (787M) [application/octet-stream]
-Saving to: ‘/tmp/cats-and-dogs.zip’
-
-/tmp/cats-and-dogs.  88%[================>   ] 699.93M  64.4MB/s    eta 2s     /tmp/cats-and-dogs.  90%[=================>  ] 714.31M  64.8MB/s    eta 2s     /tmp/cats-and-dogs.  92%[=================>  ] 728.01M  65.3MB/s    eta 2s     /tmp/cats-and-dogs.  94%[=================>  ] 742.02M  65.7MB/s    eta 2s     /tmp/cats-and-dogs.  95%[==================> ] 754.48M  65.6MB/s    eta 1s     /tmp/cats-and-dogs.  97%[==================> ] 767.50M  66.0MB/s    eta 1s     /tmp/cats-and-dogs.  99%[==================> ] 780.46M  66.2MB/s    eta 1s     /tmp/cats-and-dogs. 100%[===================>] 786.68M  66.2MB/s    in 13s     
-
-utime(/tmp/cats-and-dogs.zip): No such file or directory
-2020-08-30 23:04:36 (62.6 MB/s) - ‘/tmp/cats-and-dogs.zip’ saved [824894548/824894548]
-
