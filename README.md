@@ -1,16 +1,17 @@
 ## Tf_CNN
 
-Trains a CNN model by applying different techniques on massive datasets, including
+This project trains a CNN model by applying different techniques on massive datasets, including
 
 • **Image Data Generator**
 
-• **Data Augmentation**
+• **Image Augmentation**
 
 • **Tansfer Learning**
 
 • **Callback**
 
-• **Binary or Multi-class classification**
+• **Binary or Multi-class Classification**
 
+And also proivdes data visualization to monitor model performance.
 
 Note: Completed work in Coursera
