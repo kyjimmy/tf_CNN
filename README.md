@@ -1,6 +1,6 @@
 ## Tf_CNN
 
-Trains a CNN model by applying different techniques, including
+Trains a CNN model by applying different techniques on massive datasets, including
 
 • **Image Data Generator**
 
